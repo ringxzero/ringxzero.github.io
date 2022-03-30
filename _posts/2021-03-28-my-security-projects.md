@@ -1,11 +1,6 @@
 ## My Cyber Security Projects!
 
-this is a test for my new blog post llllllllllllllllllllllllllllllll
-test test
+Azure RDP falure logging RDP brute forcing and Geo locating the attackers and more!
 
- ```tsql
- SELECT *
- FROM sys.tables
- WHERE [name] = 'SomeTable'
- ```
+
  

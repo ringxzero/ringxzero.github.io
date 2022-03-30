@@ -2,7 +2,9 @@
 
 Sentinel - Microsoft Azure Deployment - SIEM Honeypot
 
-tasks invloved 
+![azure](https://user-images.githubusercontent.com/101017533/160874894-6c74baaf-b682-4c16-98f4-4c37670c6608.png)
+
+Tasks involved in this project. (basic overview)
 
 - Deploy VM in azure turning the firewall of making it vulnerable to attacks. OS: 
 - Log analytics workspace for azure 

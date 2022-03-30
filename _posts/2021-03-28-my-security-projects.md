@@ -15,6 +15,7 @@ tasks invloved
 - https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Security_Log_Exporter.ps1
 - GeoIP API + ps1 script and we have our geo logger!
 
+![geoapi](https://user-images.githubusercontent.com/101017533/160871319-04a0f7b5-26cb-49bf-8237-36c774822db5.png)
 
 - gather test data 
 - custom field to fix log problem messing up

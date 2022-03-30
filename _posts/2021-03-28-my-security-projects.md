@@ -21,3 +21,6 @@ tasks invloved
 - custom field to fix log problem messing up
 - customize to watch services 
 
+ From the first picture you can see what we have achived! so much more can be done with something like this. you can set alerts up and notifactions on your phone eaach time you recieve a filed logini attempt, or choose diffrent services to watch! 
+
+Thanks for reading, i have a lot of projects comeing to my github. stay tuned. 
